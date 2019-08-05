@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="594bf448-63ef-4748-867d-c156396dd6ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fbbb4180-5ee1-42d5-81f5-62feb1887d5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/collabera/JAVA_Training/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConsoleInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConsoleInput/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,10 +22,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/collabera/JAVA_Training/ConsoleInput.java">
+        <entry file="file://$PROJECT_DIR$/src/com/collabera/JAVA_Training/Operators.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="696">
+              <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -44,7 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/collabera/JAVA_Training/ConsoleInput.java" />
+        <option value="$PROJECT_DIR$/src/com/collabera/JAVA_Training/Operators.java" />
       </list>
     </option>
   </component>
@@ -67,23 +68,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ConsoleInput" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ConsoleInput" type="462c0819:PsiDirectoryNode" />
+              <item name="Operators" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Operators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -102,9 +102,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ConsoleInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collabera.JAVA_Training.ConsoleInput" />
-      <module name="ConsoleInput" />
+    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collabera.JAVA_Training.Operators" />
+      <module name="Operators" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.collabera.JAVA_Training.*" />
@@ -117,7 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConsoleInput" />
+        <item itemvalue="Application.Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -126,24 +126,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="594bf448-63ef-4748-867d-c156396dd6ba" name="Default Changelist" comment="" />
-      <created>1565017774131</created>
+      <changelist id="fbbb4180-5ee1-42d5-81f5-62feb1887d5e" name="Default Changelist" comment="" />
+      <created>1565018673090</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565017774131</updated>
+      <updated>1565018673090</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16577181" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14228188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -167,10 +166,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/collabera/JAVA_Training/ConsoleInput.java">
+    <entry file="file://$PROJECT_DIR$/src/com/collabera/JAVA_Training/Operators.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="696">
+          <caret line="69" column="58" selection-start-line="69" selection-start-column="58" selection-end-line="69" selection-end-column="58" />
         </state>
       </provider>
     </entry>
