@@ -1,0 +1,15 @@
+***** Polymorphism Challenge Instructions *****
+
+1) We are going to go back to the car analogy
+2) Create a base class called Car
+3) It should have a few fields that would be appropriate for a generic car class
+4) Engine, Cylinders, Wheels, etc....
+5) Constructor should initialize cylinders (number of) and name, and set wheels to 4 and engine to true.
+6) Cylinder and names would be passed parameters.
+7) Create appropriate getters
+8) Create some methods like startEngine, accelerate, and brake
+9) Show a message for each in the base class
+10) Now create 3 sub classes for your favorite vehicles
+11) Override the appropriate methods to demonstrate polymorphism in use
+12) Put all classes in the one java file
+
