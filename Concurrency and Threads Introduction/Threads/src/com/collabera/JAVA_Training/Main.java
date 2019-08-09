@@ -33,6 +33,14 @@ public class Main {
             @Override
             public void run() {
                 System.out.println(ANSI_PURPLE + "Hello from the anonymous class's implementation of run()");
+
+                // Example of a try catch block
+                try {
+                    anotherThread.join();
+                    System.out.println(ANSI_PURPLE + "AnotherThread terminated, or timed out, so I'm running again.");
+                } catch (InterruptedException e) {
+                    System.out.println(ANSI_PURPLE + "I couldn't wait after all. I was interrupted.");
+                }
             }
         });
 
